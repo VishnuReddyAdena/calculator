@@ -2,7 +2,7 @@
 A simple GUI calculator built with Python’s Tkinter library.
 It supports basic arithmetic operations along with decimal numbers, clear, backspace, and plus/minus toggle.
 
-🚀 Features
+-> Features
 
 Numeric buttons (0–9)
 
@@ -36,7 +36,7 @@ Python 3.x
 
 Tkinter (usually comes pre-installed with Python)
 
-▶️ How to Run
+-> How to Run
 
 Clone or download this repository.
 
@@ -49,7 +49,7 @@ python calculator.py
 
 The calculator GUI will open.
 
-📌 Future Improvements
+-> Future Improvements
 
 Add keyboard input support
 
@@ -57,6 +57,6 @@ Add square root, power, and other scientific functions
 
 Improve UI design with Tkinter themes
 
-📜 License
+-> License
 
 This project is open-source and free to use.
